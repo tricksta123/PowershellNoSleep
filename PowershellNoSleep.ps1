@@ -1,5 +1,5 @@
 #Enter the amounf of time in minutes you would like the script to run for.
-param($minutes = 60)
+param($minutes = 540)
 
 #Invoke Windows Script Host
 $myshell = New-Object -com "Wscript.Shell"
